@@ -25,9 +25,6 @@ The specific task we are trying to solve in this problem is image classification
 * ship
 * truck
 
-We've provided an end-to-end example of loading data, training a model, and performing evaluation. We recommend using this code as a template for your implementations of the more complex models. Feel free to modify or reuse any of the functions we provide.
-
-**Unlike other coding problems in the past, this one does not include an autograded component.**
 
 ### Enabling GPU
 
